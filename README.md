@@ -81,19 +81,19 @@ Save the Advanced IP Scanner installer from this site’s download flow.
 Run the setup wizard (or extract the portable build) and launch the scanner.
 
 
-![Install or extract](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/advanced-ip-scanner-main.png)
+![Install or extract](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-main.jpg)
 
 **4. Scan your LAN**  
 Set the IP range if needed, press Scan, and review devices in the results table.
 
 
-![Scan your LAN](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/advanced-ip-scanner-results.png)
+![Scan your LAN](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-results.jpg)
 
 **5. Use host tools**  
 Right-click a device for shares, HTTP/FTP, RDP/Radmin, or Wake-on-LAN when available.
 
 
-![Use host tools](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/advanced-ip-scanner-tools.png)
+![Use host tools](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-window.jpg)
 
 
 💡 Pro Tip: Start with your DHCP subnet only, then expand ranges — noisy full /8 scans waste time.
@@ -105,17 +105,17 @@ Right-click a device for shares, HTTP/FTP, RDP/Radmin, or Wake-on-LAN when avail
 > **Note:** Screenshots below show the upstream Windows GUI and may come from a different build than the package version offered for download (**2.5.4594.1**). Menus and labels can vary slightly between releases.
 
 
-![Advanced IP Scanner main window UI screenshot with Scan button](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/advanced-ip-scanner-main.png)
+![Advanced IP Scanner main window UI screenshot with Scan button](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-main.jpg)
 
 *Main scanner window — IP range field and Scan control (UI build may vary).*
 
 
-![Advanced IP Scanner results grid UI screenshot showing devices](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/advanced-ip-scanner-results.png)
+![Advanced IP Scanner results grid UI screenshot showing devices](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-results.jpg)
 
 *Results grid with IP / MAC / name columns after a LAN scan.*
 
 
-![Advanced IP Scanner tools and remote actions UI screenshot](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/advanced-ip-scanner-tools.png)
+![Advanced IP Scanner tools and remote actions UI screenshot](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-window.jpg)
 
 *Host tools / remote actions available from the scanner UI.*
 
