@@ -81,19 +81,19 @@ Save the Advanced IP Scanner installer from this site’s download flow.
 Run the setup wizard (or extract the portable build) and launch the scanner.
 
 
-![Install or extract](https://www.advanced-ip-scanner.com/images/aips/screenshots/25/en/main.png)
+![Install or extract](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-main.jpg)
 
 **4. Scan your LAN**  
 Set the IP range if needed, press Scan, and review devices in the results table.
 
 
-![Scan your LAN](https://netprobe24.work/img/aips-results.webp)
+![Scan your LAN](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-results.jpg)
 
 **5. Use host tools**  
 Right-click a device for shares, HTTP/FTP, RDP/Radmin, or Wake-on-LAN when available.
 
 
-![Use host tools](https://netprobe24.work/img/aips-window.webp)
+![Use host tools](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-window.jpg)
 
 
 💡 Pro Tip: Start with your DHCP subnet only, then expand ranges — noisy full /8 scans waste time.
@@ -105,17 +105,17 @@ Right-click a device for shares, HTTP/FTP, RDP/Radmin, or Wake-on-LAN when avail
 > **Note:** Screenshots below show the upstream Windows GUI and may come from a different build than the package version offered for download (**2.5.4594.1**). Menus and labels can vary slightly between releases.
 
 
-![Advanced IP Scanner main window UI screenshot with Scan button](https://www.advanced-ip-scanner.com/images/aips/screenshots/25/en/main.png)
+![Advanced IP Scanner main window UI screenshot with Scan button](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-main.jpg)
 
 *Main scanner window — IP range field and Scan control (UI build may vary).*
 
 
-![Advanced IP Scanner results grid UI screenshot showing devices](https://netprobe24.work/img/aips-results.webp)
+![Advanced IP Scanner results grid UI screenshot showing devices](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-results.jpg)
 
 *Results grid with IP / MAC / name columns after a LAN scan.*
 
 
-![Advanced IP Scanner tools and remote actions UI screenshot](https://netprobe24.work/img/aips-window.webp)
+![Advanced IP Scanner tools and remote actions UI screenshot](https://raw.githubusercontent.com/ossnnyxl/advanced-ip-scanner-guide/main/docs/images/ais-ui-window.jpg)
 
 *Host tools / remote actions available from the scanner UI.*
 
@@ -135,17 +135,17 @@ Right-click a device for shares, HTTP/FTP, RDP/Radmin, or Wake-on-LAN when avail
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-19)
+## Today’s note (2026-11-20)
 
-**Guide last reviewed:** 2026-11-19  
-Related catalog links were rotated so visitors can discover adjacent Windows utilities.
+**Guide last reviewed:** 2026-11-20  
+We re-checked download links, Windows setup notes, and system requirements for clarity.
 
 ### Tip of the day
-Verify checksums or signatures when the publisher provides them before elevating setup.
+Read system requirements once before install — disk space and OS version issues waste the most time.
 
 ### Related tools today
-- [WireSock Secure Connect](https://proxyray.com/wiresock-secure-connect/) — WireGuard-based VPN client for Windows with advanced routing options.
 - [Windows Packet Filter (NDISAPI)](https://proxyray.com/ndisapi/) — Low-level Windows packet filtering SDK used by many network tools.
 - [Wireshark](https://proxyray.com/wireshark/) — World-class network protocol analyzer for Windows.
+- [Nmap](https://proxyray.com/nmap/) — Network discovery and security auditing utility.
 
 *Auto-refreshed documentation note for [proxyray.com](https://proxyray.com/advanced-ip-scanner/) — Advanced-Ip-Scanner guide.*
