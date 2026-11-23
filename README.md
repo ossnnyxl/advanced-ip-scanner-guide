@@ -135,17 +135,17 @@ Right-click a device for shares, HTTP/FTP, RDP/Radmin, or Wake-on-LAN when avail
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-20)
+## Today’s note (2026-11-23)
 
-**Guide last reviewed:** 2026-11-20  
-We re-checked download links, Windows setup notes, and system requirements for clarity.
+**Guide last reviewed:** 2026-11-23  
+Related catalog links were rotated so visitors can discover adjacent Windows utilities.
 
 ### Tip of the day
-Read system requirements once before install — disk space and OS version issues waste the most time.
+Avoid re-downloading from unknown mirrors when an update is available from the official channel.
 
 ### Related tools today
-- [Windows Packet Filter (NDISAPI)](https://proxyray.com/ndisapi/) — Low-level Windows packet filtering SDK used by many network tools.
-- [Wireshark](https://proxyray.com/wireshark/) — World-class network protocol analyzer for Windows.
-- [Nmap](https://proxyray.com/nmap/) — Network discovery and security auditing utility.
+- [PuTTY](https://proxyray.com/putty/) — Classic SSH and Telnet client for Windows.
+- [Angry IP Scanner](https://proxyray.com/angry-ip-scanner/) — Cross-platform, open-source network scanner.
+- [NetLimiter](https://proxyray.com/netlimiter/) — Internet traffic control and monitoring for Windows.
 
 *Auto-refreshed documentation note for [proxyray.com](https://proxyray.com/advanced-ip-scanner/) — Advanced-Ip-Scanner guide.*
