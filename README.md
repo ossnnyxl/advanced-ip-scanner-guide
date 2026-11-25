@@ -135,17 +135,17 @@ Right-click a device for shares, HTTP/FTP, RDP/Radmin, or Wake-on-LAN when avail
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-23)
+## Today’s note (2026-11-25)
 
-**Guide last reviewed:** 2026-11-23  
-Related catalog links were rotated so visitors can discover adjacent Windows utilities.
+**Guide last reviewed:** 2026-11-25  
+Today’s review focused on install safety and first-run steps.
 
 ### Tip of the day
-Avoid re-downloading from unknown mirrors when an update is available from the official channel.
+Verify checksums or signatures when the publisher provides them before elevating setup.
 
 ### Related tools today
-- [PuTTY](https://proxyray.com/putty/) — Classic SSH and Telnet client for Windows.
-- [Angry IP Scanner](https://proxyray.com/angry-ip-scanner/) — Cross-platform, open-source network scanner.
 - [NetLimiter](https://proxyray.com/netlimiter/) — Internet traffic control and monitoring for Windows.
+- [Clash Verge](https://proxyray.com/clash-verge/) — Modern GUI client for Clash-compatible proxy configs.
+- [v2rayN](https://proxyray.com/v2rayn/) — Popular Windows GUI for VLESS/VMess and related proxies.
 
 *Auto-refreshed documentation note for [proxyray.com](https://proxyray.com/advanced-ip-scanner/) — Advanced-Ip-Scanner guide.*
