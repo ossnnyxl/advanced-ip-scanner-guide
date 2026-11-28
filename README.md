@@ -135,17 +135,17 @@ Right-click a device for shares, HTTP/FTP, RDP/Radmin, or Wake-on-LAN when avail
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-25)
+## Today’s note (2026-11-28)
 
-**Guide last reviewed:** 2026-11-25  
-Today’s review focused on install safety and first-run steps.
+**Guide last reviewed:** 2026-11-28  
+We re-checked download links, Windows setup notes, and system requirements for clarity.
 
 ### Tip of the day
-Verify checksums or signatures when the publisher provides them before elevating setup.
+After install, launch once and confirm the main window opens before troubleshooting advanced features.
 
 ### Related tools today
-- [NetLimiter](https://proxyray.com/netlimiter/) — Internet traffic control and monitoring for Windows.
-- [Clash Verge](https://proxyray.com/clash-verge/) — Modern GUI client for Clash-compatible proxy configs.
-- [v2rayN](https://proxyray.com/v2rayn/) — Popular Windows GUI for VLESS/VMess and related proxies.
+- [Proxifier](https://proxyray.com/proxifier/) — Commercial proxifier to force apps through a proxy.
+- [Alighieri](https://proxyray.com/alighieri/) — SOCKS5-over-TLS companion listener for ProxiFyre setups.
+- [SocksCap64](https://proxyray.com/sockscap64/) — Force selected Windows apps through SOCKS proxies.
 
 *Auto-refreshed documentation note for [proxyray.com](https://proxyray.com/advanced-ip-scanner/) — Advanced-Ip-Scanner guide.*
